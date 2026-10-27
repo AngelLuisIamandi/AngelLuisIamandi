@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" width="100%" height="520" role="img" aria-label="Engineering &amp; Core Skill Radar" style="background-color: #fdfdfd; border: 1px solid #e4e4e7; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;">
-  <text x="350.0" y="38" text-anchor="middle" font-size="15" font-weight="700" fill="#09090b" letter-spacing="2">✦ ENGINEERING &amp; CORE SKILL RADAR</text>
-  <polygon points="350.0,212.5 391.1,236.2 391.1,283.8 350.0,307.5 308.9,283.8 308.9,236.2" fill="none" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="3,3" opacity="0.50"/>
-  <polygon points="350.0,165.0 432.3,212.5 432.3,307.5 350.0,355.0 267.7,307.5 267.7,212.5" fill="none" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="3,3" opacity="0.60"/>
-  <polygon points="350.0,117.5 473.4,188.8 473.4,331.2 350.0,402.5 226.6,331.2 226.6,188.8" fill="none" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="3,3" opacity="0.70"/>
-  <polygon points="350.0,70.0 514.5,165.0 514.5,355.0 350.0,450.0 185.5,355.0 185.5,165.0" fill="none" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="none" opacity="0.80"/>
-  <line x1="350" y1="260" x2="350.0" y2="70.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
-  <line x1="350" y1="260" x2="514.5" y2="165.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
-  <line x1="350" y1="260" x2="514.5" y2="355.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
-  <line x1="350" y1="260" x2="350.0" y2="450.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
-  <line x1="350" y1="260" x2="185.5" y2="355.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
-  <line x1="350" y1="260" x2="185.5" y2="165.0" stroke="#a1a1aa" stroke-width="1" opacity="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 560" width="100%" height="560" role="img" aria-label="Engineering &amp; Core Skills" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+  <text x="390" y="42" text-anchor="middle" font-size="16" font-weight="700" fill="#09090b" letter-spacing="3">✦ ENGINEERING &amp; CORE SKILLS ✦</text>
+  <polygon points="390.0,256.2 427.9,278.1 427.9,321.9 390.0,343.8 352.1,321.9 352.1,278.1" fill="none" stroke="#d4d4d8" stroke-width="0.8" opacity="0.46"/>
+  <polygon points="390.0,212.5 465.8,256.2 465.8,343.8 390.0,387.5 314.2,343.8 314.2,256.2" fill="none" stroke="#d4d4d8" stroke-width="0.8" opacity="0.57"/>
+  <polygon points="390.0,168.8 503.7,234.4 503.7,365.6 390.0,431.2 276.3,365.6 276.3,234.4" fill="none" stroke="#d4d4d8" stroke-width="0.8" opacity="0.69"/>
+  <polygon points="390.0,125.0 541.6,212.5 541.6,387.5 390.0,475.0 238.4,387.5 238.4,212.5" fill="none" stroke="#d4d4d8" stroke-width="1.2" opacity="0.80"/>
+  <line x1="390" y1="300" x2="390.0" y2="125.0" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
+  <line x1="390" y1="300" x2="541.6" y2="212.5" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
+  <line x1="390" y1="300" x2="541.6" y2="387.5" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
+  <line x1="390" y1="300" x2="390.0" y2="475.0" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
+  <line x1="390" y1="300" x2="238.4" y2="387.5" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
+  <line x1="390" y1="300" x2="238.4" y2="212.5" stroke="#a1a1aa" stroke-width="1" opacity="0.5"/>
   <g>
-    <polygon points="350.0,77.6 501.4,172.6 498.1,345.5 350.0,421.5 218.4,336.0 205.2,176.4" fill="rgba(9, 9, 11, 0.10)" stroke="#09090b" stroke-width="2.2" stroke-linejoin="round"/>
-    <circle cx="350.0" cy="77.6" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
-    <circle cx="501.4" cy="172.6" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
-    <circle cx="498.1" cy="345.5" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
-    <circle cx="350.0" cy="421.5" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
-    <circle cx="218.4" cy="336.0" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
-    <circle cx="205.2" cy="176.4" r="4" fill="#09090b" stroke="#fdfdfd" stroke-width="1.5"/>
+    <polygon points="390.0,132.0 529.4,219.5 526.4,378.8 390.0,448.8 268.8,370.0 256.6,223.0" fill="rgba(9, 9, 11, 0.08)" stroke="#09090b" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="390.0" cy="132.0" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
+    <circle cx="529.4" cy="219.5" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
+    <circle cx="526.4" cy="378.8" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
+    <circle cx="390.0" cy="448.8" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
+    <circle cx="268.8" cy="370.0" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
+    <circle cx="256.6" cy="223.0" r="4.5" fill="#09090b" stroke="#ffffff" stroke-width="1.8"/>
   </g>
-  <text x="350.0" y="30.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#27272a">Frontend &amp; UI/UX</text>
-  <text x="350.0" y="45.0" text-anchor="middle" font-size="11" font-weight="500" fill="#71717a">96%</text>
-  <text x="548.5" y="150.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#27272a">Modern Web (Astro/React)</text>
-  <text x="548.5" y="165.0" text-anchor="start" font-size="11" font-weight="500" fill="#71717a">92%</text>
-  <text x="548.5" y="370.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#27272a">Technical SEO &amp; GEO (AI)</text>
-  <text x="548.5" y="385.0" text-anchor="start" font-size="11" font-weight="500" fill="#71717a">90%</text>
-  <text x="350.0" y="496.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#27272a">Backend &amp; APIs (Node/Python)</text>
-  <text x="350.0" y="511.0" text-anchor="middle" font-size="11" font-weight="500" fill="#71717a">85%</text>
-  <text x="151.5" y="370.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#27272a">Databases &amp; Cloud (Postgres)</text>
-  <text x="151.5" y="385.0" text-anchor="end" font-size="11" font-weight="500" fill="#71717a">80%</text>
-  <text x="151.5" y="150.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#27272a">3D Web &amp; Canvas (Three.js)</text>
-  <text x="151.5" y="165.0" text-anchor="end" font-size="11" font-weight="500" fill="#71717a">88%</text>
+  <text x="390.0" y="77.0" text-anchor="middle" font-size="13.5" font-weight="700" fill="#18181b">Frontend &amp; UI/UX</text>
+  <text x="390.0" y="92.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#71717a">96%</text>
+  <text x="579.3" y="192.5" text-anchor="start" font-size="13.5" font-weight="700" fill="#18181b">Modern Web (Astro/React)</text>
+  <text x="579.3" y="209.5" text-anchor="start" font-size="11.5" font-weight="600" fill="#71717a">92%</text>
+  <text x="579.3" y="399.5" text-anchor="start" font-size="13.5" font-weight="700" fill="#18181b">Technical SEO &amp; GEO (AI)</text>
+  <text x="579.3" y="416.5" text-anchor="start" font-size="11.5" font-weight="600" fill="#71717a">90%</text>
+  <text x="390.0" y="523.0" text-anchor="middle" font-size="13.5" font-weight="700" fill="#18181b">Backend &amp; APIs (Node/Python)</text>
+  <text x="390.0" y="539.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#71717a">85%</text>
+  <text x="200.7" y="399.5" text-anchor="end" font-size="13.5" font-weight="700" fill="#18181b">Databases &amp; Cloud (Postgres)</text>
+  <text x="200.7" y="416.5" text-anchor="end" font-size="11.5" font-weight="600" fill="#71717a">80%</text>
+  <text x="200.7" y="192.5" text-anchor="end" font-size="13.5" font-weight="700" fill="#18181b">3D Web &amp; Canvas (Three.js)</text>
+  <text x="200.7" y="209.5" text-anchor="end" font-size="11.5" font-weight="600" fill="#71717a">88%</text>
 </svg>
