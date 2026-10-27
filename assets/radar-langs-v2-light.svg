@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="100%" height="620" role="img" aria-label="Languages &amp; Tech Stack" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+  <g transform="translate(450, 45)">
+    <rect x="-210.0" y="-18" width="420" height="36" rx="18" fill="#f4f4f5" stroke="#d4d4d8" stroke-width="1"/>
+    <text x="0" y="6" text-anchor="middle" font-size="14.5" font-weight="700" fill="#09090b" letter-spacing="2.5">✦ LANGUAGES &amp; TECH STACK ✦</text>
+  </g>
+  <polygon points="450.0,320.0 484.6,340.0 484.6,380.0 450.0,400.0 415.4,380.0 415.4,340.0" fill="none" stroke="#d4d4d8" stroke-width="0.9" opacity="0.46"/>
+  <polygon points="450.0,280.0 519.3,320.0 519.3,400.0 450.0,440.0 380.7,400.0 380.7,320.0" fill="none" stroke="#d4d4d8" stroke-width="0.9" opacity="0.57"/>
+  <polygon points="450.0,240.0 553.9,300.0 553.9,420.0 450.0,480.0 346.1,420.0 346.1,300.0" fill="none" stroke="#d4d4d8" stroke-width="0.9" opacity="0.69"/>
+  <polygon points="450.0,200.0 588.6,280.0 588.6,440.0 450.0,520.0 311.4,440.0 311.4,280.0" fill="none" stroke="#d4d4d8" stroke-width="1.3" opacity="0.80"/>
+  <line x1="450" y1="360" x2="450.0" y2="200.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <line x1="450" y1="360" x2="588.6" y2="280.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <line x1="450" y1="360" x2="588.6" y2="440.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <line x1="450" y1="360" x2="450.0" y2="520.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <line x1="450" y1="360" x2="311.4" y2="440.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <line x1="450" y1="360" x2="311.4" y2="280.0" stroke="#e4e4e7" stroke-width="1.2" opacity="0.6"/>
+  <g>
+    <polygon points="450.0,209.6 581.6,284.0 577.5,433.6 450.0,497.6 339.1,424.0 333.6,292.8" fill="rgba(9, 9, 11, 0.10)" stroke="#09090b" stroke-width="2.6" stroke-linejoin="round"/>
+    <circle cx="450.0" cy="209.6" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="581.6" cy="284.0" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="577.5" cy="433.6" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="450.0" cy="497.6" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="339.1" cy="424.0" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="333.6" cy="292.8" r="5" fill="#09090b" stroke="#ffffff" stroke-width="2"/>
+  </g>
+  <text x="450.0" y="146.0" text-anchor="middle" font-size="14.5" font-weight="700" fill="#09090b">TypeScript</text>
+  <text x="450.0" y="166.0" text-anchor="middle" font-size="12" font-weight="600" fill="#71717a">94%</text>
+  <text x="631.7" y="259.0" text-anchor="start" font-size="14.5" font-weight="700" fill="#09090b">JavaScript</text>
+  <text x="631.7" y="278.0" text-anchor="start" font-size="12" font-weight="600" fill="#71717a">95%</text>
+  <text x="631.7" y="455.0" text-anchor="start" font-size="14.5" font-weight="700" fill="#09090b">Tailwind &amp; CSS3</text>
+  <text x="631.7" y="474.0" text-anchor="start" font-size="12" font-weight="600" fill="#71717a">92%</text>
+  <text x="450.0" y="574.0" text-anchor="middle" font-size="14.5" font-weight="700" fill="#09090b">Python / Flask</text>
+  <text x="450.0" y="592.0" text-anchor="middle" font-size="12" font-weight="600" fill="#71717a">86%</text>
+  <text x="268.3" y="455.0" text-anchor="end" font-size="14.5" font-weight="700" fill="#09090b">PHP / Java</text>
+  <text x="268.3" y="474.0" text-anchor="end" font-size="12" font-weight="600" fill="#71717a">80%</text>
+  <text x="268.3" y="259.0" text-anchor="end" font-size="14.5" font-weight="700" fill="#09090b">PostgreSQL / SQL</text>
+  <text x="268.3" y="278.0" text-anchor="end" font-size="12" font-weight="600" fill="#71717a">84%</text>
+</svg>

@@ -152,14 +152,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg?v=3">
-    <img src="assets/radar-skills-dark.svg?v=3" width="395" alt="Radar de Habilidades Software Engineering">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-v2-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-v2-light.svg">
+    <img src="assets/radar-skills-v2-dark.svg" width="410" alt="Radar de Habilidades Software Engineering">
   </picture>&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=3">
-    <img src="assets/radar-langs-dark.svg?v=3" width="395" alt="Radar de Lenguajes y Stack">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-v2-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-v2-light.svg">
+    <img src="assets/radar-langs-v2-dark.svg" width="410" alt="Radar de Lenguajes y Stack">
   </picture>
 </p>
 
