@@ -1,20 +1,12 @@
 <div align="center">
 
 <!-- OBSIDIAN MARBLE DUAL-MODE BANNER -->
-<a href="https://angelluis.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" width="960" alt="Banner Ángel Luis Iamandi — Obsidian Marble Edition">
-  </picture>
-</a>
+<a href="https://angelluis.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"><img src="assets/banner-dark.svg" width="960" alt="Banner Ángel Luis Iamandi — Obsidian Marble Edition"></picture></a>
 
 <br>
 
 <!-- TYPING ANIMATION (MONOCHROME & LUXURY SILVER) -->
-<a href="https://angelluis.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=%C3%81ngel+Luis+Iamandi+%E2%80%94+Software+Developer;Frontend+Specialist+%E2%80%A2+Clean+Code+%26+Architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Astro+%E2%80%A2+Node.js+%E2%80%A2+Python;Three.js+%E2%80%A2+GSAP+%E2%80%A2+Modern+AI+Integrations;Crafting+efficient+solutions+%26+sleek+digital+experiences" alt="Typing SVG Banner">
-</a>
+<a href="https://angelluis.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=%C3%81ngel+Luis+Iamandi+%E2%80%94+Software+Developer;Frontend+Specialist+%E2%80%A2+Clean+Code+%26+Architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Astro+%E2%80%A2+Node.js+%E2%80%A2+Python;Three.js+%E2%80%A2+GSAP+%E2%80%A2+Modern+AI+Integrations;Crafting+efficient+solutions+%26+sleek+digital+experiences" alt="Typing SVG Banner"></a>
 
 <br>
 
@@ -171,21 +163,7 @@
 
 <div align="center">
 
-<a href="https://angelluis.dev" target="_blank">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-09090b?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=18181b" alt="Portafolio Web">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/angel-luis-iamandi/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/angel.lsi" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=09090b" alt="Instagram">
-</a>&nbsp;&nbsp;
-<a href="mailto:angelluis0140@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090b" alt="Email">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/AngelLuisIamandi" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-18181b?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" alt="GitHub">
-</a>
+<a href="https://angelluis.dev" target="_blank"><img src="https://img.shields.io/badge/PORTAFOLIO-09090b?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=18181b" alt="Portafolio Web"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/angel-luis-iamandi/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/angel.lsi" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=09090b" alt="Instagram"></a>&nbsp;&nbsp;<a href="mailto:angelluis0140@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090b" alt="Email"></a>&nbsp;&nbsp;<a href="https://github.com/AngelLuisIamandi" target="_blank"><img src="https://img.shields.io/badge/GITHUB-18181b?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" alt="GitHub"></a>
 
 </div>
 
