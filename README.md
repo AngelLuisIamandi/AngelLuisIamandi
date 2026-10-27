@@ -6,7 +6,7 @@
 <br>
 
 <!-- TYPING ANIMATION (MONOCHROME & LUXURY SILVER) -->
-<a href="https://angelluis.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=%C3%81ngel+Luis+Iamandi+%E2%80%94+Software+Developer;Frontend+Specialist+%E2%80%A2+Clean+Code+%26+Architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Astro+%E2%80%A2+Node.js+%E2%80%A2+Python;Three.js+%E2%80%A2+GSAP+%E2%80%A2+Modern+AI+Integrations;Crafting+efficient+solutions+%26+sleek+digital+experiences" alt="Typing SVG Banner"></a>
+<a href="https://angelluis.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=%C3%81ngel+Luis+Iamandi+%E2%80%94+Software+Developer;Frontend+Specialist+%E2%80%A2+Clean+Code+%26+Architecture;TypeScript+%E2%80%A2+React+%E2%80%A2+Astro+%E2%80%A2+Node.js+%E2%80%A2+Python;Technical+SEO+Mastery+%E2%80%A2+Learning+GEO+(AI+Search);Three.js+%E2%80%A2+GSAP+%E2%80%A2+Modern+AI+Integrations;Crafting+efficient+solutions+%26+sleek+digital+experiences" alt="Typing SVG Banner"></a>
 
 <br>
 
@@ -76,6 +76,14 @@
         <sub><code>Llama 3.1 · Qwen 2.5:3B (Local) · Piper TTS · Gemini CLI · Antigravity</code></sub>
       </td>
       <td valign="top" style="border: 1px solid #27272a; color: #a1a1aa;">
+        <code style="color: #ffffff; font-weight: bold;">├─ 🔍 search_optimization_seo_geo:</code><br><br>
+        <img src="https://img.shields.io/badge/SEO-Proficient-18181b?style=for-the-badge&logo=google&logoColor=white&labelColor=09090b" alt="Technical SEO">
+        <img src="https://img.shields.io/badge/GEO-Learning-18181b?style=for-the-badge&logo=sparkles&logoColor=38bdf8&labelColor=09090b" alt="GEO Generative Engine Optimization"><br><br>
+        <sub><code>Technical SEO · Core Web Vitals · Schema/JSON-LD · GEO (Generative Engine Optimization)</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top" style="border: 1px solid #27272a; color: #a1a1aa;">
         <code style="color: #ffffff; font-weight: bold;">╰─ ⚑ tooling_environment:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash"><br><br>
         <sub><code>Git · GitHub · VS Code · Linux · Bash Environment</code></sub>
@@ -85,7 +93,7 @@
   <tfoot>
     <tr bgcolor="#121214">
       <td colspan="2" style="color: #71717a; font-family: monospace; padding: 10px 18px; border-top: 1px solid #27272a;">
-        <code>status: ready_for_production&nbsp;&nbsp;·&nbsp;&nbsp;architecture: clean&nbsp;&nbsp;·&nbsp;&nbsp;focus: ui_performance</code>
+        <code>status: ready_for_production&nbsp;&nbsp;·&nbsp;&nbsp;architecture: clean&nbsp;&nbsp;·&nbsp;&nbsp;search: seo_and_geo_ready</code>
       </td>
     </tr>
   </tfoot>

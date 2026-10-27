@@ -11,24 +11,24 @@
   <line x1="350" y1="260" x2="185.5" y2="355.0" stroke="#3f3f46" stroke-width="1" opacity="0.6"/>
   <line x1="350" y1="260" x2="185.5" y2="165.0" stroke="#3f3f46" stroke-width="1" opacity="0.6"/>
   <g>
-    <polygon points="350.0,77.6 501.4,172.6 494.8,343.6 350.0,421.5 218.4,336.0 208.5,178.3" fill="rgba(255, 255, 255, 0.15)" stroke="#ffffff" stroke-width="2.2" stroke-linejoin="round"/>
+    <polygon points="350.0,77.6 501.4,172.6 498.1,345.5 350.0,421.5 218.4,336.0 205.2,176.4" fill="rgba(255, 255, 255, 0.15)" stroke="#ffffff" stroke-width="2.2" stroke-linejoin="round"/>
     <circle cx="350.0" cy="77.6" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
     <circle cx="501.4" cy="172.6" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
-    <circle cx="494.8" cy="343.6" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
+    <circle cx="498.1" cy="345.5" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
     <circle cx="350.0" cy="421.5" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
     <circle cx="218.4" cy="336.0" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
-    <circle cx="208.5" cy="178.3" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
+    <circle cx="205.2" cy="176.4" r="4" fill="#ffffff" stroke="#09090b" stroke-width="1.5"/>
   </g>
   <text x="350.0" y="30.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#e4e4e7">Frontend & UI/UX</text>
   <text x="350.0" y="45.0" text-anchor="middle" font-size="11" font-weight="500" fill="#71717a">96%</text>
   <text x="548.5" y="150.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#e4e4e7">Modern Web (Astro/React)</text>
   <text x="548.5" y="165.0" text-anchor="start" font-size="11" font-weight="500" fill="#71717a">92%</text>
-  <text x="548.5" y="370.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#e4e4e7">3D Web & Canvas (Three.js)</text>
-  <text x="548.5" y="385.0" text-anchor="start" font-size="11" font-weight="500" fill="#71717a">88%</text>
+  <text x="548.5" y="370.0" text-anchor="start" font-size="12.5" font-weight="600" fill="#e4e4e7">Technical SEO & GEO (AI)</text>
+  <text x="548.5" y="385.0" text-anchor="start" font-size="11" font-weight="500" fill="#71717a">90%</text>
   <text x="350.0" y="496.0" text-anchor="middle" font-size="12.5" font-weight="600" fill="#e4e4e7">Backend & APIs (Node/Python)</text>
   <text x="350.0" y="511.0" text-anchor="middle" font-size="11" font-weight="500" fill="#71717a">85%</text>
-  <text x="151.5" y="370.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#e4e4e7">Databases & Cloud (Postgres/Neon)</text>
+  <text x="151.5" y="370.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#e4e4e7">Databases & Cloud (Postgres)</text>
   <text x="151.5" y="385.0" text-anchor="end" font-size="11" font-weight="500" fill="#71717a">80%</text>
-  <text x="151.5" y="150.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#e4e4e7">AI & LLM Integration</text>
-  <text x="151.5" y="165.0" text-anchor="end" font-size="11" font-weight="500" fill="#71717a">86%</text>
+  <text x="151.5" y="150.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#e4e4e7">3D Web & Canvas (Three.js)</text>
+  <text x="151.5" y="165.0" text-anchor="end" font-size="11" font-weight="500" fill="#71717a">88%</text>
 </svg>
