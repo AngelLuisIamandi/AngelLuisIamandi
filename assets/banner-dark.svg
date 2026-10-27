@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="100%" height="260">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-obsidian" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080a" />
+      <stop offset="50%" stop-color="#101014" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+
+    <!-- Metallic Silver Gradients -->
+    <linearGradient id="silver-text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#d4d4d8" />
+      <stop offset="100%" stop-color="#fafafa" />
+    </linearGradient>
+
+    <linearGradient id="vein-grad-1" x1="0%" y1="0%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35" />
+      <stop offset="35%" stop-color="#a1a1aa" stop-opacity="0.2" />
+      <stop offset="70%" stop-color="#71717a" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="vein-grad-2" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#e4e4e7" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#71717a" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#27272a" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="30%" stop-color="#52525b" stop-opacity="0.1" />
+      <stop offset="70%" stop-color="#27272a" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.3" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseVein {
+      0%, 100% { opacity: 0.85; }
+      50% { opacity: 1; }
+    }
+    .marble-base { fill: url(#bg-obsidian); }
+    .vein-primary { stroke: url(#vein-grad-1); fill: none; stroke-linecap: round; }
+    .vein-secondary { stroke: url(#vein-grad-2); fill: none; stroke-linecap: round; }
+    .border-accent { stroke: url(#border-glow); fill: none; stroke-width: 1.2; }
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      letter-spacing: 5px;
+      fill: url(#silver-text);
+      text-anchor: middle;
+    }
+    .subtitle-text {
+      font-family: 'JetBrains Mono', Consolas, Monaco, monospace;
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 4px;
+      fill: #a1a1aa;
+      text-anchor: middle;
+    }
+    .tagline-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      letter-spacing: 3px;
+      fill: #71717a;
+      text-anchor: middle;
+      font-weight: 600;
+    }
+  </style>
+
+  <!-- Deep Obsidian Background -->
+  <rect width="960" height="260" rx="14" class="marble-base" />
+
+  <!-- Organic Marble Veins (Nero Marquina Texture) -->
+  <g class="vein-primary" stroke-width="2.5" opacity="0.9">
+    <path d="M -20,40 Q 180,60 310,120 T 560,110 T 780,180 T 980,140" />
+    <path d="M 280,115 Q 360,70 450,85 T 620,40" stroke-width="1.2" opacity="0.6" />
+    <path d="M 540,112 Q 620,150 710,140 T 890,230" stroke-width="1.5" opacity="0.7" />
+  </g>
+
+  <g class="vein-secondary" stroke-width="1.5" opacity="0.7">
+    <path d="M -10,210 Q 140,170 290,200 T 520,175 T 820,95 T 970,70" />
+    <path d="M 120,180 Q 220,130 310,120" stroke-width="1.0" opacity="0.5" />
+    <path d="M 720,115 Q 810,65 910,50" stroke-width="0.8" opacity="0.6" />
+  </g>
+
+  <!-- Fine Mineral Fractures -->
+  <g stroke="#ffffff" stroke-opacity="0.18" stroke-width="0.75" fill="none">
+    <path d="M 60,30 L 110,65 L 140,55 L 210,95" />
+    <path d="M 790,220 L 830,195 L 870,210 L 930,180" />
+    <path d="M 400,240 L 460,200 L 510,215" />
+  </g>
+
+  <!-- Luxury Minimalist Frame -->
+  <rect x="25" y="25" width="910" height="210" rx="10" class="border-accent" />
+  
+  <!-- Corner Architectural Accents -->
+  <g stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.7" fill="none">
+    <!-- Top-Left -->
+    <path d="M 20,35 L 20,20 L 35,20" />
+    <!-- Top-Right -->
+    <path d="M 925,20 L 940,20 L 940,35" />
+    <!-- Bottom-Left -->
+    <path d="M 20,225 L 20,240 L 35,240" />
+    <!-- Bottom-Right -->
+    <path d="M 925,240 L 940,240 L 940,225" />
+  </g>
+
+  <!-- Status Indicator Badge -->
+  <g transform="translate(480, 58)">
+    <rect x="-105" y="-12" width="210" height="24" rx="12" fill="#18181b" stroke="#3f3f46" stroke-width="1" />
+    <circle cx="-85" cy="0" r="3.5" fill="#22c55e" filter="url(#glow)" />
+    <text x="-72" y="4" font-family="'JetBrains Mono', monospace" font-size="10" fill="#e4e4e7" letter-spacing="1.5">OPEN TO PROJECTS</text>
+  </g>
+
+  <!-- Main Identity Content -->
+  <!-- Name -->
+  <text x="480" y="128" class="title-text">ÁNGEL LUIS IAMANDI</text>
+
+  <!-- Divider line -->
+  <line x1="360" y1="145" x2="600" y2="145" stroke="#3f3f46" stroke-width="1" stroke-dasharray="8 4" />
+
+  <!-- Subtitle / Role -->
+  <text x="480" y="172" class="subtitle-text">SOFTWARE DEVELOPER &amp; FRONTEND SPECIALIST</text>
+
+  <!-- Aesthetic Tagline / Location -->
+  <text x="480" y="202" class="tagline-text">CRAFTING HIGH-PERFORMANCE WEB EXPERIENCES · ALICANTE, SPAIN</text>
+</svg>

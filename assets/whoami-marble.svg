@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" width="100%" height="310">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c" />
+      <stop offset="60%" stop-color="#0f1013" />
+      <stop offset="100%" stop-color="#070708" />
+    </linearGradient>
+
+    <linearGradient id="term-vein" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#a1a1aa" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#71717a" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .terminal-window { fill: url(#term-bg); stroke: #27272a; stroke-width: 1.2; rx: 10px; }
+    .header-bar { fill: #18181b; }
+    .header-text { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 12px; fill: #a1a1aa; }
+    .code-text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 13.5px; }
+    .key { fill: #e4e4e7; font-weight: 600; }
+    .string { fill: #a1a1aa; }
+    .accent { fill: #ffffff; font-weight: bold; }
+    .comment { fill: #52525b; font-style: italic; }
+    .bool { fill: #38bdf8; }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect width="960" height="310" class="terminal-window" />
+
+  <!-- Marble vein decor inside terminal -->
+  <path d="M 50,300 Q 280,180 520,240 T 920,80" stroke="url(#term-vein)" stroke-width="2" fill="none" opacity="0.6" />
+  <path d="M 700,290 Q 820,210 930,220" stroke="url(#term-vein)" stroke-width="1.2" fill="none" opacity="0.4" />
+
+  <!-- Header / Title Bar -->
+  <path d="M 0,10 Q 0,0 10,0 L 950,0 Q 960,0 960,10 L 960,38 L 0,38 Z" class="header-bar" />
+  <line x1="0" y1="38" x2="960" y2="38" stroke="#27272a" stroke-width="1" />
+
+  <!-- Window Controls (Minimalist Monochrome Dots) -->
+  <circle cx="28" cy="19" r="6" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
+  <circle cx="48" cy="19" r="6" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
+  <circle cx="68" cy="19" r="6" fill="#27272a" stroke="#3f3f46" stroke-width="1" />
+
+  <text x="480" y="23" text-anchor="middle" class="header-text">angel@obsidian-system: ~/portfolio (zsh)</text>
+
+  <!-- Terminal Code Content -->
+  <g class="code-text" transform="translate(35, 68)">
+    <!-- Command Prompt -->
+    <text x="0" y="0">
+      <tspan fill="#71717a">┌──(</tspan><tspan fill="#ffffff" font-weight="bold">angel㉿obsidian</tspan><tspan fill="#71717a">)-[</tspan><tspan fill="#a1a1aa">~/identity</tspan><tspan fill="#71717a">]</tspan>
+    </text>
+    <text x="0" y="24">
+      <tspan fill="#71717a">└─$</tspan> <tspan fill="#ffffff" font-weight="bold">cat</tspan> <tspan fill="#e4e4e7">profile.json</tspan>
+    </text>
+
+    <!-- JSON / Object output -->
+    <text x="0" y="55">
+      <tspan fill="#71717a">{</tspan>
+    </text>
+    <text x="24" y="77">
+      <tspan class="key">"name"</tspan><tspan fill="#71717a">: </tspan><tspan class="string">"Ángel Luis Iamandi"</tspan><tspan fill="#71717a">,</tspan>
+    </text>
+    <text x="24" y="99">
+      <tspan class="key">"role"</tspan><tspan fill="#71717a">: </tspan><tspan class="accent">"Software Developer &amp; Frontend Specialist"</tspan><tspan fill="#71717a">,</tspan>
+    </text>
+    <text x="24" y="121">
+      <tspan class="key">"location"</tspan><tspan fill="#71717a">: </tspan><tspan class="string">"Alicante, Spain 🇪🇸"</tspan><tspan fill="#71717a">,</tspan>
+    </text>
+    <text x="24" y="143">
+      <tspan class="key">"website"</tspan><tspan fill="#71717a">: </tspan><tspan class="accent">"https://angelluis.dev"</tspan><tspan fill="#71717a">,</tspan>
+    </text>
+    <text x="24" y="165">
+      <tspan class="key">"focus"</tspan><tspan fill="#71717a">: [</tspan><tspan class="string">"Clean Architecture"</tspan><tspan fill="#71717a">, </tspan><tspan class="string">"Modern UI/UX"</tspan><tspan fill="#71717a">, </tspan><tspan class="string">"Interactive &amp; 3D Web"</tspan><tspan fill="#71717a">, </tspan><tspan class="string">"AI Integration"</tspan><tspan fill="#71717a">],</tspan>
+    </text>
+    <text x="24" y="187">
+      <tspan class="key">"philosophy"</tspan><tspan fill="#71717a">: </tspan><tspan class="string">"Code that compiles with precision and resonates with elegance."</tspan><tspan fill="#71717a">,</tspan>
+    </text>
+    <text x="24" y="209">
+      <tspan class="key">"status"</tspan><tspan fill="#71717a">: </tspan><tspan class="string">"Available for innovative projects &amp; development teams"</tspan>
+    </text>
+    <text x="0" y="231">
+      <tspan fill="#71717a">}</tspan>
+    </text>
+  </g>
+</svg>
