@@ -148,17 +148,22 @@
 
 ---
 
-## ✦ `$ git stats --realtime`
+## ✦ `$ signals --telemetry --all-namespaces`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelLuisIamandi&show_icons=true&theme=transparent&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=27272a&bg_color=09090b&hide_border=false" alt="Estadísticas de GitHub de Ángel Luis" width="460">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLuisIamandi&layout=compact&theme=transparent&title_color=ffffff&text_color=a1a1aa&border_color=27272a&bg_color=09090b&hide_border=false" alt="Lenguajes más usados de Ángel Luis" width="380">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
+    <img src="assets/radar-skills-dark.svg" width="455" alt="Radar de Habilidades Software Engineering">
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-dark.svg" width="455" alt="Radar de Lenguajes y Stack">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelLuisIamandi&theme=dark&background=09090b&border=27272a&stroke=27272a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Racha de commits de Ángel Luis" width="850">
-</p>
+<p align="center"><sub><code>signals: frontend_engineering_radar · stack_telemetry_radar · status: nominal · environment: production</code></sub></p>
 
 ---
 
