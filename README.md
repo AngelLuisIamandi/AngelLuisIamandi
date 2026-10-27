@@ -31,13 +31,11 @@
   <img src="assets/whoami-marble.svg" width="960" alt="Terminal Ángel Luis Iamandi">
 </p>
 
-<br>
-
-<div align="center">
+---
 
 ## ✦ `$ cat tech-stack.yaml`
 
-<table border="1" cellpadding="14" bgcolor="#09090b" style="border-collapse: collapse; border: 1px solid #27272a; width: 100%; max-width: 960px;">
+<table width="100%" border="1" cellpadding="14" bgcolor="#09090b" style="border-collapse: collapse; border: 1px solid #27272a;">
   <thead>
     <tr bgcolor="#121214">
       <th colspan="2" align="left" style="color: #e4e4e7; font-family: monospace; padding: 12px 18px; border-bottom: 1px solid #27272a;">
@@ -100,8 +98,6 @@
     </tr>
   </tfoot>
 </table>
-
-</div>
 
 ---
 
