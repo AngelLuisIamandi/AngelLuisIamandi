@@ -80,7 +80,7 @@
         <img src="https://cdn.simpleicons.org/meta/ffffff?viewbox=auto" height="48" alt="Llama 3.1">
         <img src="https://cdn.simpleicons.org/googlegemini/ffffff?viewbox=auto" height="48" alt="Gemini CLI">
         <img src="https://cdn.simpleicons.org/anthropic/ffffff?viewbox=auto" height="48" alt="Claude">
-        <img src="https://cdn.simpleicons.org/openai/ffffff?viewbox=auto" height="48" alt="ChatGPT"><br><br>
+        <img src="assets/icon-chatgpt.svg" height="48" alt="ChatGPT"><br><br>
         <sub><code>Llama 3.1 · Qwen 2.5:3B (Local) · Piper TTS · Gemini CLI · Antigravity</code></sub>
       </td>
       <td valign="top" style="border: 1px solid #27272a; color: #a1a1aa;">
